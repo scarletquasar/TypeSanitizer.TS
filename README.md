@@ -6,10 +6,21 @@
 
 <center>
 <p align="center">
-TypeSanitizer is a library created to sanitize data based on a template object called **ConstraintGroup**.
+TypeSanitizer is a library created to sanitize data based on a template object called <b>ConstraintGroup</b>.
 Note: TypeSanitizer is currently in trial version (1.0.0), this means it has only basic functionality and may have potential issues.
 </p>
 </center>
+
+## Features
+
+## Features
+| Feature | State |
+| --- | ----------- |
+| 🔵 **Data Sanitization** |
+| Template-based object analysis | Working ✔ |
+| Support to all primitive types | In Progress ⛔ |
+| Recursive list/array analysis | Not Started ❌ |
+| Day-by-day validation constraints | Not Started ❌ |
 
 ## Usage
 
