@@ -16,6 +16,7 @@ Note: TypeSanitizer is currently in tests version (1.0.0), this means it has onl
 | --- | ----------- |
 | 🔵 **Data Sanitization** |
 | Template-based object analysis | Working ✔ |
+| Error-free sanitization | In Progress ⛔ |
 | Support to all primitive types | In Progress ⛔ |
 | Editable Exception Dictionary | Not Started ❌ |
 | Recursive list/array analysis | Not Started ❌ |
