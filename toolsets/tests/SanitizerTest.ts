@@ -10,7 +10,7 @@ var NumberTemplate: ConstraintGroup = {
 };
 
 /* Excepted "TypeError" */
-console.log(TypeSanitize(-113, NumberTemplate));
+//console.log(TypeSanitize(-113, NumberTemplate));
 
 var StringTemplate: ConstraintGroup = {
     maxLength: 10,
