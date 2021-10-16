@@ -12,8 +12,6 @@ Note: TypeSanitizer is currently in tests version (1.0.0), this means it has onl
 </center>
 
 ## Features
-
-## Features
 | Feature | State |
 | --- | ----------- |
 | 🔵 **Data Sanitization** |
