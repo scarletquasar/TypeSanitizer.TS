@@ -8,9 +8,6 @@
 <p align="center">
 TypeSanitizer is a library created to sanitize data based on a template object called **ConstraintGroup**.
 Note: TypeSanitizer is currently in trial version (1.0.0), this means it has only basic functionality and may have potential issues.
-
-[![CodeFactor](https://www.codefactor.io/repository/github/eternalquasar0206/type-sanitizer/badge/main)](https://www.codefactor.io/repository/github/eternalquasar0206/git-grabber/overview/main) <img src="https://shields.io/github/v/tag/EternalQuasar0206/type-sanitizer" />
-
 </p>
 </center>
 
