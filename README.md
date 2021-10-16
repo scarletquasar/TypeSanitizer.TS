@@ -20,6 +20,14 @@ Note: TypeSanitizer is currently in tests version (1.0.0), this means it has onl
 | Editable Exception Dictionary | Not Started ❌ |
 | Recursive list/array analysis | Not Started ❌ |
 | Day-by-day validation constraints | Not Started ❌ |
+| 🔵 **Primitive Types** |
+| string | Working ✔ |
+| number | Working ✔ |
+| boolean | In Progress ⛔ |
+| object array | In Progress ⛔ |
+| object dictionary | In Progress ⛔ |
+| function | In Progress ⛔ |
+| Symbol | In Progress ⛔ |
 
 ## Usage
 
