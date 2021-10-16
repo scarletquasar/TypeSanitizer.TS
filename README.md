@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.imgur.com/JnSjFjJ.png" width="75px">
+  <img src="https://i.imgur.com/SNi3RFG.png" width="75px">
   <br>
   TypeSanitizer
 </h1>
@@ -9,7 +9,7 @@
 TypeSanitizer is a library created to sanitize data based on a template object called **ConstraintGroup**.
 Note: TypeSanitizer is currently in trial version (1.0.0), this means it has only basic functionality and may have potential issues.
 
-[![CodeFactor](https://www.codefactor.io/repository/github/eternalquasar0206/git-grabber/badge/main)](https://www.codefactor.io/repository/github/eternalquasar0206/git-grabber/overview/main) <img src="https://shields.io/github/v/tag/EternalQuasar0206/git-grabber" />
+[![CodeFactor](https://www.codefactor.io/repository/github/eternalquasar0206/type-sanitizer/badge/main)](https://www.codefactor.io/repository/github/eternalquasar0206/git-grabber/overview/main) <img src="https://shields.io/github/v/tag/EternalQuasar0206/type-sanitizer" />
 
 </p>
 </center>
