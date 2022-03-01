@@ -6,7 +6,7 @@
 
 <center>
 <p align="center">
-TypeSanitizer.ts is a TypeScript library created to sanitize data based on a template object called <b>ConstraintGroup</b>.
+TypeSanitizer.ts (Discontinued) is a TypeScript library created to sanitize data based on a template object called <b>ConstraintGroup</b>.
 Note: TypeSanitizer is currently in tests version (1.0.0), this means it has only basic functionality and may have possible issues.
 </p>
 </center>
